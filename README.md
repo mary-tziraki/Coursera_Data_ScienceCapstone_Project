@@ -1,1 +1,1 @@
-# Coursera_Data_ScienceCapstone_Project
+# Coursera_Data_Science_Capstone_Project
